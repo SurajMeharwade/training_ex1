@@ -5,3 +5,4 @@
 ### 2. Basic Git Commands execution
 ### 3. Creating Repository in GitHub
 ### 4. Git Push
+### 5. Git Pull
